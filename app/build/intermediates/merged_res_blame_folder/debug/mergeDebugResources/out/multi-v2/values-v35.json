@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.shubharambh.app-mergeDebugResources-47:/values-v35/values-v35.xml",
+            "map": [
+                {
+                    "source": "E:\\Android Project Shashank\\Shubharambh\\app\\src\\main\\res\\values-v35\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "282"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "169"
+                    }
+                }
+            ]
+        }
+    ]
+}

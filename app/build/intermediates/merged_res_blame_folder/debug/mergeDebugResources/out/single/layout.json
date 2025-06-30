@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.shubharambh.app-mergeDebugResources-48:/layout/header.xml",
+        "source": "com.example.shubharambh.app-main-51:/layout/header.xml"
+    },
+    {
+        "merged": "com.example.shubharambh.app-mergeDebugResources-48:/layout/activity_launcher.xml",
+        "source": "com.example.shubharambh.app-main-51:/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "com.example.shubharambh.app-mergeDebugResources-48:/layout/recycler_item.xml",
+        "source": "com.example.shubharambh.app-main-51:/layout/recycler_item.xml"
+    },
+    {
+        "merged": "com.example.shubharambh.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.shubharambh.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.shubharambh.app-mergeDebugResources-48:/layout/activity_login.xml",
+        "source": "com.example.shubharambh.app-main-51:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.shubharambh.app-mergeDebugResources-48:/layout/activity_list.xml",
+        "source": "com.example.shubharambh.app-main-51:/layout/activity_list.xml"
+    },
+    {
+        "merged": "com.example.shubharambh.app-mergeDebugResources-48:/layout/activity_chart.xml",
+        "source": "com.example.shubharambh.app-main-51:/layout/activity_chart.xml"
+    }
+]
